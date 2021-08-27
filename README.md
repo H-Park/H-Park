@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hunter Park
 
-<!--
-**H-Park/H-Park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Hunter, I am a Machine Learning Engineer who loves working on challenging ML problems with nonstandard data structures. 
 
-Here are some ideas to get you started:
+# About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in Computer Vision, and also have experience in Genetic Algorithms / NAS, and Reinforcement Learning (RL).
+
+- I am an Arsenal fan 
+- I love to ski
+- A passion project of mine is StarCraft 2 AI
+- I have two Golden Doodles
+- Rust enthusiast
+
+[![index.jpg](https://i.postimg.cc/15H5BNJN/index.jpg)](https://postimg.cc/jLDbdCVs)
+
+[![Snapchat-1308673763.jpg](https://i.postimg.cc/bNPN2PJq/Snapchat-1308673763.jpg)](https://postimg.cc/BthGddHz)
