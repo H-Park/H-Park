@@ -11,7 +11,3 @@ I specialize in Computer Vision, and also have experience in Genetic Algorithms 
 - A passion project of mine is StarCraft 2 AI
 - I have two Golden Doodles
 - Rust enthusiast
-
-[![index.jpg](https://i.postimg.cc/15H5BNJN/index.jpg)](https://postimg.cc/jLDbdCVs)
-
-[![Snapchat-1308673763.jpg](https://i.postimg.cc/bNPN2PJq/Snapchat-1308673763.jpg)](https://postimg.cc/BthGddHz)
