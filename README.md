@@ -9,3 +9,5 @@ Historically have worked on ML based Computer Vision related projects, and also 
 - A passion project of mine is StarCraft 2 AI
 - Rustacean
 - I have two Golden Doodles
+
+Do the math, save the world
